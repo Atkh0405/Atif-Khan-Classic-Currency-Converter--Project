@@ -1,0 +1,22 @@
+{
+  "name": "atif-khan-classic-currency-converter--project",
+  "version": "1.0.0",
+  "description": "This is a CLI based currency converter project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Atif Ullah Khan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.2",
+    "nquirer": "^0.1.8"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
